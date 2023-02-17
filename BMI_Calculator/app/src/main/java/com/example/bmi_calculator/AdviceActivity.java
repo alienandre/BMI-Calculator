@@ -1,4 +1,4 @@
-//Allen Andrews and Brian Tran
+//Allen Andrews 
 package com.example.bmi_calculator;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
